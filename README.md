@@ -1,4 +1,3 @@
-# DannyXia
 # Fullfill the Efficient Frontier of no-short portfolio with Mont Carlo Simulation 
 
 This is actually a standard homework of asset pricing. Problem set and data set are credited Prof. Wang Wei Mun, Lee Kong Chian School of Business, Singapore Management University. The full-fill method is an original work credited to myself.
