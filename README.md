@@ -4,3 +4,4 @@ This is actually a standard homework of asset pricing. Problem set and data set 
 
 # A quick snap at the question
 
+!![Image description](https://github.com/OrangeXia2013/no-short-efficient-frontier/blob/master/output_46_1.png)
